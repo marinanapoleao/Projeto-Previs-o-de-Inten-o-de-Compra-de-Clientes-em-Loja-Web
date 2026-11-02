@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo
 
-Problema de Negócio / Pergunta de Pesquisa
+##  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/261dec9b-a66e-44f1-8dc0-694ad8625ff7" />  Problema de Negócio / Pergunta de Pesquisa
 
 ## 📊 Fonte de Dados
 
